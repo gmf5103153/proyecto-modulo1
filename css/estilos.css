@@ -1,0 +1,45 @@
+
+
+nav {
+    background-color: turquoise;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+nav a {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    
+}
+
+nav u1 {
+    background-color: #0e7047;
+    color: white;
+    list-style-type: none;
+    padding: 20px;
+    text-align: center;
+    width: 400px;
+    transform: scale(1.2);
+}
+nav li {
+    display: inline-flex;
+}
+nav a {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    /*font-weight: bold;*/
+    display: block;
+}
+
+nav li:hover {
+    background-color: paleturquoise;
+    
+}
+
+
+
+
+

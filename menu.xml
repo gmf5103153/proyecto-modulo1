@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+    <item>
+        <nombre>Inicio</nombre>
+        <link>inicio.html</link>
+    </item>
+    <item>
+        <nombre>Formulario de Encuestas</nombre>
+        <link>formulario.html</link>
+    </item>
+    <item>
+        <nombre>Resultados</nombre>
+        <link>resultados.html</link>
+    </item>
+    <item>
+        <nombre>Recomendaciones de Decoración</nombre>
+        <link>recomendaciones.html</link>
+    </item>
+    <item>
+        <nombre>Comunidad</nombre>
+        <link>comunidad.html</link>
+    </item>
+    <item>
+        <nombre>Recursos</nombre>
+        <link>recursos.html</link>
+    </item>
+    <item>
+        <nombre>FAQ</nombre>
+        <link>faq.html</link>
+    </item>
+    <item>
+        <nombre>Contacto</nombre>
+        <link>contacto.html</link>
+    </item>
+</menu>
